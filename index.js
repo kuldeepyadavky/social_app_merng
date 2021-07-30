@@ -1,6 +1,5 @@
 const { ApolloServer } = require('apollo-server');
 const mongoose = require('mongoose');
-const gql = require('graphql-tag');
 
 const { MONGOURI } = require('./config.js');
 
