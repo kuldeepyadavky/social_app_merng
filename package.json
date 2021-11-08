@@ -11,7 +11,7 @@
 	"author": "Kuldeep Yadav",
 	"license": "ISC",
 	"dependencies": {
-		"apollo-server": "^3.0.2",
+		"apollo-server": "^3.4.1",
 		"bcryptjs": "^2.4.3",
 		"graphql": "^15.5.1",
 		"jsonwebtoken": "^8.5.1",
